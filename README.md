@@ -7,16 +7,29 @@ Hello and welcome to BiTrophy. This is a school project. I'll be straight with y
 # Links!!
 These are the links to all the different app files and source code, seperated into sections.
 
+
 MOBILE:
+
 Android - https://github.com/RockinProjex/BiTrophy-Android
+
 iOS - https://github.com/RockinProjex/BiTrophy-iOS
 
+
 WEB:
+
 App - https://github.com/RockinProjex/BiTrophy-webapp
+
 Website (Vercel) - https://github.com/RockinProjex/BiTrophy-Vercel
 
+
 OTHER:
+
 EXTRAS - https://github.com/RockinProjex/BiTrophy-EXTRAS
+
 Troubleshooting - https://github.com/RockinProjex/BiTrophy-Troubleshooting
+
 DevLogs - https://github.com/RockinProjex/BiTrophy-DevLogs
+
 Community - https://github.com/RockinProjex/BiTrophy-Community
+
+# Features
