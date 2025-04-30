@@ -32,4 +32,31 @@ DevLogs - https://github.com/RockinProjex/BiTrophy-DevLogs
 
 Community - https://github.com/RockinProjex/BiTrophy-Community
 
+# Introduction
+After that interlude, I now know you want to learn how I made this!
+
+This was a really hard task (or it will be) and I am happy that this is the result. (or I will be pleased by it) This (was/is) a school project started on the 30th April 2025, until January 2026. Here's the rundown, from the top!
+
+BiTrophy (a word mash between "Bit" and "Trophy") is a mobile, web and, soon, desktop app for tracking retro (and new!) game completion. It has extended add-on, theme, skin and multipack support for maximum customisability.
+
 # Features
+
+A beautifully sleek, yet interchangeable user interface with satisfying sounds and graphical effects.
+
+The add-ons available for the app are opt-in, preventing size issues. (A few add-ons are pre-installed, like default theme packs, but these can be disabled and/or deleted with ease)
+
+Official add-ons provide only the best choices for your app, however you can create your own! (Coding knowledge not included)
+
+Theming support allows endless customisability; make your app an NES love letter, or simply go bonkers and mix 'n' match between themes!
+
+Opt-out menus, pop-ups and buttons allow you to reduce clutter.
+
+Ad-free by default. (I'm looking at *you*, xManager...) - however allowing unobtrusive banners supports the project! 
+
+YouTube, VLC & other video players are possible to integrate (but not preinstalled due to size needing to increase) using official add-ons, allowing seamless playback of others' playthroughs!
+
+Image scraper tools will (eventually, as an official add-on) allow you to scrape your own image instead of using defaults.
+
+# Integrations
+
+This app allows you to integrate RetroAchievements, Steam Achievements, Sony and Microsoft platforms.
