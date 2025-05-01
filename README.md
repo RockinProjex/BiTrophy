@@ -82,3 +82,10 @@ DEVELOPER
 So, you want to make your own add-on? Great! Let's get started.
 
 Add-ons are installable either via the app, copy-and-paste into the Add-on folder (for basic scripts) or as APK, ipa, EXE, zip, and other filetypes. (however this is discouraged as it blocks users from installing them cross-platform. If one of these platform-exclusive addons gets popular, you need to program it again in a multiplatform version before I feature it.) There are more instructions in the add-ons pages in the links at the end of this README.
+
+OTHER
+
+Making 3rd party add-ons is in no way discouraged, in fact this is the best way to support this app! However, other add-on based apps (like Kodi) have had 3rd party add-ons that don't follow good practice. This is where this paragraph comes in. I discourage anyone to share their add-ons in any other way from posting them on Github, whether it be my own or another. Getting people to pay for add-ons is not great, and I view it as quite scummy, as you are making people pay for an add-on to an app which is free. So, please don't!
+
+Stealing add-ons is also not good practice. This is obvious as no-one likes their work being stolen. Recreating parts of an official add-on is fine, however these rules are set by developers of the add-ons. Copying too much is frouned upon.
+
