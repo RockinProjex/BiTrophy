@@ -59,4 +59,6 @@ Image scraper tools will (eventually, as an official add-on) allow you to scrape
 
 # Integrations
 
-This app allows you to integrate RetroAchievements, Steam Achievements, Sony and Microsoft platforms.
+This app allows you to integrate RetroAchievements, Steam Achievements, Sony and Microsoft platforms. This will allow you to track your achievements, no matter if it's Zelda or The Escapists, Super Mario Bros. or Banjo-Kazooie. This app allows you to track it.
+
+By default, RetroAchievements is the only enabled option. You may install more using add-ons, and if you want, you can even uninstall RetroAchievements. 
