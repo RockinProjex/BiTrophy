@@ -43,6 +43,8 @@ BiTrophy (a word mash between "Bit" and "Trophy") is a mobile, web and, soon, de
 
 A beautifully sleek, yet interchangeable user interface with satisfying sounds and graphical effects.
 
+This app is build for everyone. No matter if you're 14 or 41, this app is built for you!
+
 The add-ons available for the app are opt-in, preventing size issues. (A few add-ons are pre-installed, like default theme packs, but these can be disabled and/or deleted with ease)
 
 Official add-ons provide only the best choices for your app, however you can create your own! (Coding knowledge not included)
@@ -62,3 +64,21 @@ Image scraper tools will (eventually, as an official add-on) allow you to scrape
 This app allows you to integrate RetroAchievements, Steam Achievements, Sony and Microsoft platforms. This will allow you to track your achievements, no matter if it's Zelda or The Escapists, Super Mario Bros. or Banjo-Kazooie. This app allows you to track it.
 
 By default, RetroAchievements is the only enabled option. You may install more using add-ons, and if you want, you can even uninstall RetroAchievements. 
+
+This app incorporates its own system too, where you can track completions. There are rewards for completing a game, in part or in full! If you have beaten a game's story, you can mark it as "Story Complete", if you have done everything in a "Freeplay" section of the game (Lego Worlds build mode, and other Freeplay Unlocking mechanics) you can mark it as "Freeplay Complete". If you get all achievements and both completions, you get a special reward! Details soon.
+
+Got your own achievement tracker not yet supported by my official add-ons, the recommended add-ons, or the other community-based add-ons? With a little coding knowledge, you can make your own add-on for it! Just make sure to add a pull request to the Community Add-ons page. Details in the add-ons section below.
+
+# Add-ons
+
+Possibly the most inclusive feature of this app is the extensive add-on support. I chose to use add-ons instead of having everything in-app, as this allows people to curate their own app and experience, tailored to their needs. This is split up into sections.
+
+USER
+
+Hello, user! I see you want to install an add-on! You may go to the add-ons page of the app, or if you want to see the source code of an add-on, simply go to the links at the bottom of this README!
+
+DEVELOPER
+
+So, you want to make your own add-on? Great! Let's get started.
+
+Add-ons are installable either via the app, copy-and-paste into the Add-on folder (for basic scripts) or as APK, ipa, EXE, zip, and other filetypes. (however this is discouraged as it blocks users from installing them cross-platform. If one of these platform-exclusive addons gets popular, you need to program it again in a multiplatform version before I feature it.) There are more instructions in the add-ons pages in the links at the end of this README.
