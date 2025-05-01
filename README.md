@@ -89,3 +89,14 @@ Making 3rd party add-ons is in no way discouraged, in fact this is the best way 
 
 Stealing add-ons is also not good practice. This is obvious as no-one likes their work being stolen. Recreating parts of an official add-on is fine, however these rules are set by developers of the add-ons. Copying too much is frouned upon.
 
+# Extra Links
+
+Links to other things from platforms.
+
+ADD-ONS:
+
+https://github.com/RockinProjex/BiTrophy-RecAddons - Make a pull request to make your add-on recommended. Please check the repo first to make sure your add-on hasn't been made before. Alternatively, look here for inspiration; see what hasn't been made!
+
+https://github.com/RockinProjex/BiTrophy-OffAddons - All of my official add-ons. This has a branch called "Templates". This is where you can download templates for your add-ons. These templates can be used freely, with or without credit.
+
+https://github.com/RockinProjex/BiTrophy-Community - Not yet ready to request Recommended status? Denied it? Still want your add-on to be advertised on my Github? Make a pull request on the "AddOns" branch.
