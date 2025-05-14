@@ -100,3 +100,5 @@ https://github.com/RockinProjex/BiTrophy-RecAddons - Make a pull request to make
 https://github.com/RockinProjex/BiTrophy-OffAddons - All of my official add-ons. This has a branch called "Templates". This is where you can download templates for your add-ons. These templates can be used freely, with or without credit.
 
 https://github.com/RockinProjex/BiTrophy-Community - Not yet ready to request Recommended status? Denied it? Still want your add-on to be advertised on my Github? Make a pull request on the "AddOns" branch.
+
+# and for those wondering I am @rtrpx on discord.
