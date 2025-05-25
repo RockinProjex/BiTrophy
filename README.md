@@ -37,7 +37,7 @@ DevLogs - https://github.com/RockinProjex/BiTrophy-DevLogs
 
 Community - https://github.com/RockinProjex/BiTrophy-Community
 
-Wiki - 
+Wiki - https://bitrophy.miraheze.org UNFINISHED - working on it. In the meantime check back every now and then for some leaks!
 
 # Introduction
 After that interlude, I now know you want to learn how I made this!
