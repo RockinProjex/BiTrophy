@@ -22,6 +22,11 @@ App - https://github.com/RockinProjex/BiTrophy-webapp
 Website (Vercel) - https://github.com/RockinProjex/BiTrophy-Vercel
 
 
+DESKTOP:
+
+App - https://github.com/RockinProjex/BiTrophy-Desktop
+
+
 OTHER:
 
 EXTRAS - https://github.com/RockinProjex/BiTrophy-EXTRAS
@@ -31,6 +36,8 @@ Troubleshooting - https://github.com/RockinProjex/BiTrophy-Troubleshooting
 DevLogs - https://github.com/RockinProjex/BiTrophy-DevLogs
 
 Community - https://github.com/RockinProjex/BiTrophy-Community
+
+Wiki - 
 
 # Introduction
 After that interlude, I now know you want to learn how I made this!
