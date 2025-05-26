@@ -50,7 +50,7 @@ BiTrophy (a word mash between "Bit" and "Trophy") is a mobile, web and, soon, de
 
 A beautifully sleek, yet interchangeable user interface with satisfying sounds and graphical effects.
 
-This app is build for everyone. No matter if you're 14 or 41, this app is built for you!
+This app is built for everyone. No matter if you're 14 or 41, this app is made for you!
 
 The add-ons available for the app are opt-in, preventing size issues. (A few add-ons are pre-installed, like default theme packs, but these can be disabled and/or deleted with ease)
 
